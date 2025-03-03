@@ -1,7 +1,6 @@
 Airfoil,Efficiency
 e71.dat,341.7806
 ah79100c.dat,212.3764
-fx72150b.dat,209.4535
 ah79100b.dat,208.2179
 ah94145.dat,199.8732
 drgnfly.dat,165.3500
@@ -174,7 +173,6 @@ coanda2.dat,47.2656
 chen.dat,45.1572
 coanda1.dat,45.0233
 bambino6.dat,28.0695
-bacj.dat,10.9781
 e184.dat,nan
 e186.dat,nan
 e193.dat,135.6658
@@ -507,7 +505,6 @@ goe366.dat,630.2494
 goe364.dat,616.2198
 goe329.dat,578.8208
 goe331.dat,540.8703
-goe274.dat,272.9386
 goe242.dat,195.1567
 goe233.dat,183.5832
 goe227.dat,181.5195
@@ -528,7 +525,6 @@ goe330.dat,142.8410
 goe264.dat,141.4312
 goe173.dat,141.0494
 goe265.dat,140.8041
-goe402.dat,139.9520
 goe269.dat,138.0982
 goe358.dat,136.9899
 goe284.dat,136.8815
@@ -646,7 +642,6 @@ goe441.dat,166.3461
 goe446.dat,162.5294
 goe405.dat,154.4493
 goe08k.dat,153.3815
-goe124.dat,148.0878
 goe426.dat,147.5157
 goe423.dat,141.9148
 goe413.dat,141.3748
@@ -783,7 +778,6 @@ goe596.dat,126.0218
 goe526.dat,125.9891
 hq358.dat,125.9811
 hq359.dat,125.3765
-goe531.dat,124.9220
 goe479.dat,124.8881
 goe504.dat,124.3300
 goe604.dat,123.7033
@@ -923,7 +917,6 @@ goe775.dat,nan
 goe776.dat,nan
 goe780.dat,nan
 goe802b.dat,367.1732
-goe92.dat,266.8920
 goe804.dat,233.2174
 goe801.dat,193.5204
 goe802.dat,193.5204
@@ -963,7 +956,6 @@ hq108.dat,63.6070
 hor04.dat,62.1365
 hq09.dat,48.2334
 hq010.dat,46.4121
-hq07.dat,37.2120
 hs1430.dat,20.2938
 goe570.dat,13.4225
 ht35.dat,nan
@@ -1090,7 +1082,6 @@ mh60.dat,83.0367
 mh44.dat,81.8740
 mh61.dat,81.4933
 mh43.dat,81.2770
-mh45.dat,80.2394
 mh126.dat,80.2211
 mh62.dat,79.9533
 mh80.dat,79.6075
@@ -1401,7 +1392,6 @@ s2060.dat,72.7005
 vr14.dat,72.6106
 sc1094r8.dat,72.4463
 rc10n1.dat,72.0788
-usa50.dat,70.9076
 s2062.dat,70.8978
 v13009.dat,69.9845
 sc20414.dat,69.7402
@@ -1478,10 +1468,8 @@ s9026.dat,29.4939
 r140.dat,27.8485
 sc20503.dat,23.6872
 r1145msf.dat,22.6635
-sc20404.dat,20.6156
 rc0864c.dat,19.1981
 sc20403.dat,18.5421
 s5020.dat,15.9592
-sc20402.dat,8.3685
 zv15_35.dat,nan
 ""
