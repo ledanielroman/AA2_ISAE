@@ -1,2 +1,1 @@
-# AeroNaughty
 Applied Aerodynamics II
