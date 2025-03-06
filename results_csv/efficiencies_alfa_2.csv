@@ -1,6 +1,7 @@
 Airfoil,Efficiency
 e71.dat,341.7806
 ah79100c.dat,212.3764
+fx72150b.dat,209.4535
 ah79100b.dat,208.2179
 ah94145.dat,199.8732
 drgnfly.dat,165.3500
@@ -35,6 +36,7 @@ ah79k135.dat,111.9894
 ah79k143.dat,106.9189
 ah88k136.dat,106.0828
 a18.dat,105.5205
+a63a108c.dat,nan
 ah80136.dat,104.7321
 ah93w257.dat,102.5452
 ag23.dat,101.2239
@@ -79,6 +81,7 @@ ah81k144wfKlappe.dat,49.0352
 ag27.dat,34.7635
 ah85l120.dat,31.8262
 ah93w480b.dat,28.0042
+ames02.dat,nan
 ch10sm.dat,205.2999
 dae11.dat,204.5856
 as6098.dat,198.9169
@@ -116,6 +119,8 @@ clarkyh.dat,94.6836
 clarym18.dat,89.8956
 bw3.dat,88.9160
 b29tip.dat,87.5229
+b707a.dat,nan
+b707b.dat,nan
 boe106.dat,119.3917
 apex16.dat,111.1095
 boe103.dat,102.7664
@@ -169,6 +174,9 @@ coanda2.dat,47.2656
 chen.dat,45.1572
 coanda1.dat,45.0233
 bambino6.dat,28.0695
+bacj.dat,10.9781
+e184.dat,nan
+e186.dat,nan
 e193.dat,135.6658
 e195.dat,134.9735
 e1200.dat,134.3032
@@ -211,6 +219,12 @@ dga1182.dat,42.8378
 dh4009sm.dat,36.8044
 dbln526.dat,31.2373
 dga1138.dat,26.8676
+e228.dat,nan
+e230.dat,nan
+e325.dat,nan
+e326.dat,nan
+e330.dat,nan
+e335.dat,nan
 e63.dat,241.6719
 e58.dat,218.7535
 e664ex.dat,217.8016
@@ -345,6 +359,7 @@ e473.dat,46.0509
 e297.dat,44.7284
 e475.dat,42.2523
 e479.dat,38.4465
+esa40.dat,nan
 fg1.dat,723.4563
 fx72150a.dat,201.5271
 fx63137sm.dat,180.7452
@@ -435,6 +450,7 @@ fx711530.dat,33.4614
 fx71l150.dat,33.4614
 fx711525.dat,31.2570
 e864.dat,28.4095
+fx76120.dat,nan
 fx76mp120.dat,235.4131
 fx76mp140.dat,216.3108
 fx72ls160.dat,215.9706
@@ -481,6 +497,7 @@ fx76100.dat,53.8995
 fx79l120.dat,42.9368
 fx79l100.dat,34.5076
 fx79w660a.dat,2.5424
+giiia.dat,nan
 goe287.dat,1039.4482
 goe278.dat,1007.8812
 goe275.dat,892.6689
@@ -490,6 +507,7 @@ goe366.dat,630.2494
 goe364.dat,616.2198
 goe329.dat,578.8208
 goe331.dat,540.8703
+goe274.dat,272.9386
 goe242.dat,195.1567
 goe233.dat,183.5832
 goe227.dat,181.5195
@@ -510,6 +528,7 @@ goe330.dat,142.8410
 goe264.dat,141.4312
 goe173.dat,141.0494
 goe265.dat,140.8041
+goe402.dat,139.9520
 goe269.dat,138.0982
 goe358.dat,136.9899
 goe284.dat,136.8815
@@ -619,6 +638,7 @@ goe286.dat,44.6457
 goe376.dat,42.2106
 goe374.dat,26.2547
 goe346.dat,25.6001
+goe445.dat,nan
 goe448.dat,177.9115
 goe07k.dat,170.1120
 goe447.dat,167.1487
@@ -626,6 +646,7 @@ goe441.dat,166.3461
 goe446.dat,162.5294
 goe405.dat,154.4493
 goe08k.dat,153.3815
+goe124.dat,148.0878
 goe426.dat,147.5157
 goe423.dat,141.9148
 goe413.dat,141.3748
@@ -711,6 +732,8 @@ goe429.dat,26.9228
 goe257.dat,26.6972
 goe443.dat,24.5148
 goe444.dat,18.3913
+goe459.dat,nan
+goe460.dat,nan
 goe574.dat,721.1268
 goe482.dat,175.6413
 goe652.dat,162.1827
@@ -760,6 +783,7 @@ goe596.dat,126.0218
 goe526.dat,125.9891
 hq358.dat,125.9811
 hq359.dat,125.3765
+goe531.dat,124.9220
 goe479.dat,124.8881
 goe504.dat,124.3300
 goe604.dat,123.7033
@@ -894,7 +918,12 @@ ht05.dat,44.7120
 ht08.dat,44.4464
 goe515.dat,44.2338
 goe598.dat,42.9758
+goe765.dat,nan
+goe775.dat,nan
+goe776.dat,nan
+goe780.dat,nan
 goe802b.dat,367.1732
+goe92.dat,266.8920
 goe804.dat,233.2174
 goe801.dat,193.5204
 goe802.dat,193.5204
@@ -934,8 +963,10 @@ hq108.dat,63.6070
 hor04.dat,62.1365
 hq09.dat,48.2334
 hq010.dat,46.4121
+hq07.dat,37.2120
 hs1430.dat,20.2938
 goe570.dat,13.4225
+ht35.dat,nan
 ist-mt1-15.dat,231.4245
 ist-mt1-12.dat,218.0804
 ist-mt1-18.dat,206.5709
@@ -982,6 +1013,9 @@ ht33.dat,47.1498
 ls013.dat,45.7735
 j5012.dat,44.5244
 ht21.dat,43.2438
+lwk80080.dat,nan
+lwk80100.dat,nan
+lwk80150k25.dat,nan
 m21.dat,123.0144
 m15.dat,120.6643
 m14.dat,118.5884
@@ -1026,6 +1060,9 @@ m25.dat,13.5675
 m23.dat,11.5861
 m16.dat,10.3268
 m22.dat,8.8789
+mh106.dat,nan
+mh108.dat,nan
+mh110.dat,nan
 mh114.dat,186.5515
 mh112.dat,178.6925
 mh113.dat,178.3371
@@ -1036,6 +1073,8 @@ mh122.dat,143.8346
 mh18.dat,110.9364
 mh201.dat,109.2496
 mh200.dat,101.9912
+mh46.dat,nan
+mh49.dat,nan
 mh83.dat,123.8732
 mh84.dat,120.3137
 mh121.dat,115.6361
@@ -1051,6 +1090,7 @@ mh60.dat,83.0367
 mh44.dat,81.8740
 mh61.dat,81.4933
 mh43.dat,81.2770
+mh45.dat,80.2394
 mh126.dat,80.2211
 mh62.dat,79.9533
 mh80.dat,79.6075
@@ -1066,6 +1106,9 @@ mh91.dat,56.6251
 mh27.dat,52.0131
 mh78.dat,50.0648
 griffith30SymSuction.dat,10.0473
+mh92.dat,nan
+mh93.dat,nan
+n0011sc.dat,nan
 ua79sfm.dat,312.1697
 nlf1015.dat,195.8386
 n1h15.dat,164.5075
@@ -1120,6 +1163,8 @@ n64012a.dat,42.1983
 n14.dat,41.3368
 n64008a.dat,39.9209
 mi-strut1.dat,19.3808
+oaf139.dat,nan
+prandtl-d-wingtip.dat,nan
 psu94097.dat,148.7365
 psu-90-125wl.dat,108.9461
 n8h12.dat,107.7012
@@ -1158,6 +1203,7 @@ oa206.dat,52.2516
 npl9626.dat,51.6540
 nplx.dat,50.4510
 p51hroot.dat,39.5336
+r1145msm.dat,nan
 supermarine371ii.dat,274.1589
 uag8814320.dat,221.4522
 s1210.dat,194.0657
@@ -1207,6 +1253,8 @@ s4083.dat,125.4335
 rhodesg34.dat,123.6702
 s1091.dat,123.2539
 raf19.dat,123.0538
+ultimate.dat,nan
+us1000root.dat,nan
 usa27.dat,126.1350
 sg6051.dat,125.3327
 usnps4.dat,123.2408
@@ -1246,6 +1294,7 @@ stcyr171.dat,53.0975
 trainer60.dat,52.1510
 stcyr172.dat,47.4751
 ua79sff.dat,37.1231
+w1011.dat,nan
 waspsm.dat,114.9184
 r1080.dat,114.7539
 r1082t.dat,114.7410
@@ -1352,6 +1401,7 @@ s2060.dat,72.7005
 vr14.dat,72.6106
 sc1094r8.dat,72.4463
 rc10n1.dat,72.0788
+usa50.dat,70.9076
 s2062.dat,70.8978
 v13009.dat,69.9845
 sc20414.dat,69.7402
@@ -1428,7 +1478,10 @@ s9026.dat,29.4939
 r140.dat,27.8485
 sc20503.dat,23.6872
 r1145msf.dat,22.6635
+sc20404.dat,20.6156
 rc0864c.dat,19.1981
 sc20403.dat,18.5421
 s5020.dat,15.9592
+sc20402.dat,8.3685
+zv15_35.dat,nan
 ""
